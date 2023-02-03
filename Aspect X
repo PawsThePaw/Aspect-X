@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Aspect-X/main/Aspect%20X%20V1.lua.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Aspect-X/main/Aspect%20X%20V1.0.1.lua"))()
