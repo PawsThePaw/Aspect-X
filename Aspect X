@@ -2,4 +2,4 @@
 --//DO NOT USE THIS LOADSTRING USE THIS:
 --loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Aspect-X/main/Aspect%20X"))()
 --DO NOT USE THIS LOADSTRING OR ELSE YOU WILL BE STUCK AT A VERSION THIS LOADSTRING IS WHAT UPDATES THE SCRIPT IF YOU USE IT THEN YOU WONT HAVE AUTO UPDATES.
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Aspect-X/main/Aspect%20X%20V1.0.3%20new.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Aspect-X/main/Aspect%20X%201.0.4.lua.txt"))()
