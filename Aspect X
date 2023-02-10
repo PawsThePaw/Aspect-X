@@ -3,3 +3,6 @@
 --loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Aspect-X/main/Aspect%20X"))()
 --DO NOT USE THIS LOADSTRING OR ELSE YOU WILL BE STUCK AT A VERSION THIS LOADSTRING IS WHAT UPDATES THE SCRIPT IF YOU USE IT THEN YOU WONT HAVE AUTO UPDATES.
 loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Aspect-X/main/Protected.lua%20(16).txt"))()
+--Loaded
+wait (3)
+loadstring(game:HttpGet(''))()
